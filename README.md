@@ -47,13 +47,9 @@ const Me = {
 </p>
 
 ### You can reach out to me through
-
-  <a href="https://twitter.com/ochuba_daniel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="32px"></a>
-  <a href="https://www.linkedin.com/in/daniel-ochuba-ugochukwu/" target="_blank"><img src="https://github.com/mwismann/mwismann/blob/main/assets/LinkedIn_logo_initials.png" width="32px"></a>
-  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/matee_safi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/matee-safi-755421243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-khan20" height="30" width="40" /></a>
+<a href="https://twitter.com/ochuba_daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-ochuba-ugochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-khan20" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shayan ali bakhsh" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan_ali_bakhsh" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshayan091" height="30" width="40" /></a>
