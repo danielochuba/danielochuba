@@ -12,6 +12,17 @@ const Me = {
   hobbies: ['Music', 'Soccer', 'nature', 'travel & taste'],
 }
 ```
+### You can reach out to me through
+<p align="left">
+<a href="https://twitter.com/ochuba_daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-ochuba-ugochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-khan20" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shayan ali bakhsh" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan_ali_bakhsh" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshayan091" height="30" width="40" /></a>
+</p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielochuba&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -35,25 +46,13 @@ const Me = {
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Hi there 👋
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielochuba)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielochuba&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielochuba&layout=compact)](https://github.com/danielochuba/github-readme-stats)
 <p align="center">
   <img src="https://profile-counter.glitch.me/danielochuba/count.svg"/> <br>
   Stalkers counted, since March 2023
 </p>
 
-### You can reach out to me through
-<p align="left">
-<a href="https://twitter.com/ochuba_daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/daniel-ochuba-ugochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-khan20" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shayan ali bakhsh" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan_ali_bakhsh" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshayan091" height="30" width="40" /></a>
-</p>
+
 <!--
 **danielochuba/danielochuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
