@@ -5,8 +5,8 @@ const Me = {
   name: 'Daniel Ochuba Ugochukwu',
   userName: 'danielochuba',
   stack: {
-    frontEnd: ['Vanilla JavaScript', 'ES6', 'React.js', 'Pugg.js', 'Markdown.js'],
-    backEnd: ['Node.js', 'Express.js', 'MongoDb', Ruby on rails],
+    frontEnd: ['Vanilla JavaScript', 'ES6', 'React.js', 'Redux', 'Tailwind'],
+    backEnd: ['Ruby', 'Ruby on rails','Postgresql' 'Node.js', 'Express.js', ],
     },
   professionalInterests: ['Web3', 'AI', 'Mobile'],
   hobbies: ['Music', 'Soccer', 'nature', 'travel & taste'],
