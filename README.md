@@ -9,7 +9,7 @@ const Me = {
     backEnd: ['Ruby', 'Ruby on rails', 'Postgresql', 'Node.js', 'Express.js', ],
     },
   professionalInterests: ['Web3', 'AI', 'Mobile'],
-  hobbies: ['Music', 'Soccer', 'nature', 'travel & taste'],
+  hobbies: ['Chess', 'Music', 'Soccer', 'nature', 'travel & taste'],
 }
 ```
 ### You can reach out to me through
