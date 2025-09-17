@@ -1,7 +1,7 @@
 ![Technology in Education Technology Presentation in Blue Peach Illustrative Style](https://user-images.githubusercontent.com/81446846/226108294-2b9eec4d-88f5-4825-a899-d9eab0764976.gif)
 
 
-<a href="https://www.credly.com/badges/79de05b4-89a2-430e-957a-0cda3bca4979/public_url" target="blank"><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/91db6079-8153-4fcf-b976-5b87a203b3de" /></a>
+<a href="https://www.credly.com/badges/79de05b4-89a2-430e-957a-0cda3bca4979/public_url" target="blank"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/91db6079-8153-4fcf-b976-5b87a203b3de" /></a>
 
 
 ```JavaScript 
